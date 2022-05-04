@@ -1,6 +1,6 @@
 ﻿using System;
 
-namespace Banco
+namespace ContaBanco
 {
     class Program
     {
